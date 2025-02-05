@@ -1,0 +1,5 @@
+Multiple Regression Within Group A: 
+The multiple regression analysis was conducted to predict 'Height' based on 'Length', 'Width', 'Mass', and 'Density' within Group A only.
+The summary of the regression model shows the coefficients, standard errors, and p-values for each predictor within this group.
+Compare these results with the regression across all categories to see if the best predictor changes when focusing on a single group.
+Based on the p-values within Group A, identify the variable that has the strongest relationship with 'Height'.
