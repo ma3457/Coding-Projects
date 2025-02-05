@@ -1,0 +1,14 @@
+multivariate analysis of variance (MANOVA) Results:
+           Df Pillai approx F num Df den Df    Pr(>F)    
+Group       2 1.1364   37.897     10    288 < 2.2e-16 ***
+Residuals 147                                            
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Interpretation:
+The MANOVA test was conducted to evaluate whether there are significant differences in the multivariate means of the variables
+Length, Width, Height, Mass, and Density across the three groups (A, B, and C). The null hypothesis of the MANOVA test is that the
+mean vectors of the dependent variables are equal across all levels of the independent variable (Group).
+
+If the MANOVA test is significant (i.e., low p-value), it indicates that the group means differ significantly for at least one of the variables.
+You can follow up with univariate ANOVAs or other post-hoc tests to determine which variables contribute to the group differences.
