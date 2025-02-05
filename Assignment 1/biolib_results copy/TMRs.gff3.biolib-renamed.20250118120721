@@ -1,0 +1,1306 @@
+##gff-version 3
+# tr|Q8DTB4|Q8DTB4_STRMU Length: 263
+# tr|Q8DTB4|Q8DTB4_STRMU Number of predicted TMRs: 0
+tr|Q8DTB4|Q8DTB4_STRMU	inside	1	263				
+//
+# tr|Q8DTB5|Q8DTB5_STRMU Length: 183
+# tr|Q8DTB5|Q8DTB5_STRMU Number of predicted TMRs: 0
+tr|Q8DTB5|Q8DTB5_STRMU	signal	1	36				
+tr|Q8DTB5|Q8DTB5_STRMU	outside	37	183				
+//
+# tr|Q8DTB6|Q8DTB6_STRMU Length: 232
+# tr|Q8DTB6|Q8DTB6_STRMU Number of predicted TMRs: 1
+tr|Q8DTB6|Q8DTB6_STRMU	inside	1	17				
+tr|Q8DTB6|Q8DTB6_STRMU	TMhelix	18	39				
+tr|Q8DTB6|Q8DTB6_STRMU	outside	40	232				
+//
+# tr|Q8DTB8|Q8DTB8_STRMU Length: 262
+# tr|Q8DTB8|Q8DTB8_STRMU Number of predicted TMRs: 4
+tr|Q8DTB8|Q8DTB8_STRMU	inside	1	6				
+tr|Q8DTB8|Q8DTB8_STRMU	TMhelix	7	26				
+tr|Q8DTB8|Q8DTB8_STRMU	outside	27	34				
+tr|Q8DTB8|Q8DTB8_STRMU	TMhelix	35	50				
+tr|Q8DTB8|Q8DTB8_STRMU	inside	51	53				
+tr|Q8DTB8|Q8DTB8_STRMU	TMhelix	54	74				
+tr|Q8DTB8|Q8DTB8_STRMU	outside	75	82				
+tr|Q8DTB8|Q8DTB8_STRMU	TMhelix	83	96				
+tr|Q8DTB8|Q8DTB8_STRMU	inside	97	262				
+//
+# tr|Q8DTB9|Q8DTB9_STRMU Length: 53
+# tr|Q8DTB9|Q8DTB9_STRMU Number of predicted TMRs: 1
+tr|Q8DTB9|Q8DTB9_STRMU	outside	1	16				
+tr|Q8DTB9|Q8DTB9_STRMU	TMhelix	17	27				
+tr|Q8DTB9|Q8DTB9_STRMU	inside	28	53				
+//
+# tr|Q8DTC0|Q8DTC0_STRMU Length: 387
+# tr|Q8DTC0|Q8DTC0_STRMU Number of predicted TMRs: 4
+tr|Q8DTC0|Q8DTC0_STRMU	inside	1	262				
+tr|Q8DTC0|Q8DTC0_STRMU	TMhelix	263	286				
+tr|Q8DTC0|Q8DTC0_STRMU	outside	287	305				
+tr|Q8DTC0|Q8DTC0_STRMU	TMhelix	306	323				
+tr|Q8DTC0|Q8DTC0_STRMU	inside	324	340				
+tr|Q8DTC0|Q8DTC0_STRMU	TMhelix	341	350				
+tr|Q8DTC0|Q8DTC0_STRMU	outside	351	351				
+tr|Q8DTC0|Q8DTC0_STRMU	TMhelix	352	361				
+tr|Q8DTC0|Q8DTC0_STRMU	inside	362	387				
+//
+# tr|Q8DTC1|Q8DTC1_STRMU Length: 637
+# tr|Q8DTC1|Q8DTC1_STRMU Number of predicted TMRs: 0
+tr|Q8DTC1|Q8DTC1_STRMU	inside	1	637				
+//
+# tr|Q8DTC5|Q8DTC5_STRMU Length: 318
+# tr|Q8DTC5|Q8DTC5_STRMU Number of predicted TMRs: 1
+tr|Q8DTC5|Q8DTC5_STRMU	inside	1	9				
+tr|Q8DTC5|Q8DTC5_STRMU	TMhelix	10	27				
+tr|Q8DTC5|Q8DTC5_STRMU	outside	28	318				
+//
+# tr|Q8DTC9|Q8DTC9_STRMU Length: 357
+# tr|Q8DTC9|Q8DTC9_STRMU Number of predicted TMRs: 0
+tr|Q8DTC9|Q8DTC9_STRMU	inside	1	357				
+//
+# tr|Q8DTD1|Q8DTD1_STRMU Length: 188
+# tr|Q8DTD1|Q8DTD1_STRMU Number of predicted TMRs: 0
+tr|Q8DTD1|Q8DTD1_STRMU	inside	1	188				
+//
+# tr|Q8DTD2|Q8DTD2_STRMU Length: 198
+# tr|Q8DTD2|Q8DTD2_STRMU Number of predicted TMRs: 0
+tr|Q8DTD2|Q8DTD2_STRMU	inside	1	198				
+//
+# tr|Q8DTD4|Q8DTD4_STRMU Length: 242
+# tr|Q8DTD4|Q8DTD4_STRMU Number of predicted TMRs: 0
+tr|Q8DTD4|Q8DTD4_STRMU	inside	1	242				
+//
+# tr|Q8DTD5|Q8DTD5_STRMU Length: 205
+# tr|Q8DTD5|Q8DTD5_STRMU Number of predicted TMRs: 0
+tr|Q8DTD5|Q8DTD5_STRMU	inside	1	205				
+//
+# tr|Q8DTD6|Q8DTD6_STRMU Length: 257
+# tr|Q8DTD6|Q8DTD6_STRMU Number of predicted TMRs: 0
+tr|Q8DTD6|Q8DTD6_STRMU	inside	1	257				
+//
+# tr|Q8DTD7|Q8DTD7_STRMU Length: 219
+# tr|Q8DTD7|Q8DTD7_STRMU Number of predicted TMRs: 4
+tr|Q8DTD7|Q8DTD7_STRMU	inside	1	8				
+tr|Q8DTD7|Q8DTD7_STRMU	TMhelix	9	29				
+tr|Q8DTD7|Q8DTD7_STRMU	outside	30	88				
+tr|Q8DTD7|Q8DTD7_STRMU	TMhelix	89	109				
+tr|Q8DTD7|Q8DTD7_STRMU	inside	110	123				
+tr|Q8DTD7|Q8DTD7_STRMU	TMhelix	124	144				
+tr|Q8DTD7|Q8DTD7_STRMU	outside	145	178				
+tr|Q8DTD7|Q8DTD7_STRMU	TMhelix	179	200				
+tr|Q8DTD7|Q8DTD7_STRMU	inside	201	219				
+//
+# tr|Q8DTD8|Q8DTD8_STRMU Length: 842
+# tr|Q8DTD8|Q8DTD8_STRMU Number of predicted TMRs: 4
+tr|Q8DTD8|Q8DTD8_STRMU	inside	1	262				
+tr|Q8DTD8|Q8DTD8_STRMU	TMhelix	263	283				
+tr|Q8DTD8|Q8DTD8_STRMU	outside	284	711				
+tr|Q8DTD8|Q8DTD8_STRMU	TMhelix	712	732				
+tr|Q8DTD8|Q8DTD8_STRMU	inside	733	764				
+tr|Q8DTD8|Q8DTD8_STRMU	TMhelix	765	791				
+tr|Q8DTD8|Q8DTD8_STRMU	outside	792	804				
+tr|Q8DTD8|Q8DTD8_STRMU	TMhelix	805	825				
+tr|Q8DTD8|Q8DTD8_STRMU	inside	826	842				
+//
+# tr|Q8DTD9|Q8DTD9_STRMU Length: 391
+# tr|Q8DTD9|Q8DTD9_STRMU Number of predicted TMRs: 12
+tr|Q8DTD9|Q8DTD9_STRMU	inside	1	14				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	15	34				
+tr|Q8DTD9|Q8DTD9_STRMU	outside	35	50				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	51	67				
+tr|Q8DTD9|Q8DTD9_STRMU	inside	68	78				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	79	94				
+tr|Q8DTD9|Q8DTD9_STRMU	outside	95	101				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	102	122				
+tr|Q8DTD9|Q8DTD9_STRMU	inside	123	143				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	144	159				
+tr|Q8DTD9|Q8DTD9_STRMU	outside	160	168				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	169	184				
+tr|Q8DTD9|Q8DTD9_STRMU	inside	185	209				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	210	226				
+tr|Q8DTD9|Q8DTD9_STRMU	outside	227	244				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	245	263				
+tr|Q8DTD9|Q8DTD9_STRMU	inside	264	272				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	273	291				
+tr|Q8DTD9|Q8DTD9_STRMU	outside	292	296				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	297	313				
+tr|Q8DTD9|Q8DTD9_STRMU	inside	314	334				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	335	355				
+tr|Q8DTD9|Q8DTD9_STRMU	outside	356	365				
+tr|Q8DTD9|Q8DTD9_STRMU	TMhelix	366	386				
+tr|Q8DTD9|Q8DTD9_STRMU	inside	387	391				
+//
+# tr|Q8DTE0|Q8DTE0_STRMU Length: 477
+# tr|Q8DTE0|Q8DTE0_STRMU Number of predicted TMRs: 0
+tr|Q8DTE0|Q8DTE0_STRMU	inside	1	477				
+//
+# tr|Q8DTE1|Q8DTE1_STRMU Length: 288
+# tr|Q8DTE1|Q8DTE1_STRMU Number of predicted TMRs: 0
+tr|Q8DTE1|Q8DTE1_STRMU	inside	1	288				
+//
+# tr|Q8DTE2|Q8DTE2_STRMU Length: 288
+# tr|Q8DTE2|Q8DTE2_STRMU Number of predicted TMRs: 0
+tr|Q8DTE2|Q8DTE2_STRMU	inside	1	288				
+//
+# tr|Q8DTE6|Q8DTE6_STRMU Length: 190
+# tr|Q8DTE6|Q8DTE6_STRMU Number of predicted TMRs: 0
+tr|Q8DTE6|Q8DTE6_STRMU	inside	1	190				
+//
+# tr|Q8DTE7|Q8DTE7_STRMU Length: 125
+# tr|Q8DTE7|Q8DTE7_STRMU Number of predicted TMRs: 0
+tr|Q8DTE7|Q8DTE7_STRMU	inside	1	125				
+//
+# tr|Q8DTE8|Q8DTE8_STRMU Length: 106
+# tr|Q8DTE8|Q8DTE8_STRMU Number of predicted TMRs: 0
+tr|Q8DTE8|Q8DTE8_STRMU	outside	1	106				
+//
+# tr|Q8DTE9|Q8DTE9_STRMU Length: 284
+# tr|Q8DTE9|Q8DTE9_STRMU Number of predicted TMRs: 0
+tr|Q8DTE9|Q8DTE9_STRMU	inside	1	284				
+//
+# tr|Q8DTF0|Q8DTF0_STRMU Length: 79
+# tr|Q8DTF0|Q8DTF0_STRMU Number of predicted TMRs: 0
+tr|Q8DTF0|Q8DTF0_STRMU	inside	1	79				
+//
+# tr|Q8DTF1|Q8DTF1_STRMU Length: 583
+# tr|Q8DTF1|Q8DTF1_STRMU Number of predicted TMRs: 0
+tr|Q8DTF1|Q8DTF1_STRMU	signal	1	26				
+tr|Q8DTF1|Q8DTF1_STRMU	outside	27	583				
+//
+# tr|Q8DTF2|Q8DTF2_STRMU Length: 42
+# tr|Q8DTF2|Q8DTF2_STRMU Number of predicted TMRs: 0
+tr|Q8DTF2|Q8DTF2_STRMU	inside	1	42				
+//
+# tr|Q8DTF4|Q8DTF4_STRMU Length: 275
+# tr|Q8DTF4|Q8DTF4_STRMU Number of predicted TMRs: 0
+tr|Q8DTF4|Q8DTF4_STRMU	inside	1	275				
+//
+# tr|Q8DTF5|Q8DTF5_STRMU Length: 158
+# tr|Q8DTF5|Q8DTF5_STRMU Number of predicted TMRs: 0
+tr|Q8DTF5|Q8DTF5_STRMU	inside	1	158				
+//
+# tr|Q8DTF6|Q8DTF6_STRMU Length: 202
+# tr|Q8DTF6|Q8DTF6_STRMU Number of predicted TMRs: 1
+tr|Q8DTF6|Q8DTF6_STRMU	inside	1	18				
+tr|Q8DTF6|Q8DTF6_STRMU	TMhelix	19	36				
+tr|Q8DTF6|Q8DTF6_STRMU	outside	37	202				
+//
+# tr|Q8DTF7|Q8DTF7_STRMU Length: 218
+# tr|Q8DTF7|Q8DTF7_STRMU Number of predicted TMRs: 6
+tr|Q8DTF7|Q8DTF7_STRMU	inside	1	5				
+tr|Q8DTF7|Q8DTF7_STRMU	TMhelix	6	23				
+tr|Q8DTF7|Q8DTF7_STRMU	outside	24	30				
+tr|Q8DTF7|Q8DTF7_STRMU	TMhelix	31	51				
+tr|Q8DTF7|Q8DTF7_STRMU	inside	52	69				
+tr|Q8DTF7|Q8DTF7_STRMU	TMhelix	70	87				
+tr|Q8DTF7|Q8DTF7_STRMU	outside	88	98				
+tr|Q8DTF7|Q8DTF7_STRMU	TMhelix	99	119				
+tr|Q8DTF7|Q8DTF7_STRMU	inside	120	126				
+tr|Q8DTF7|Q8DTF7_STRMU	TMhelix	127	146				
+tr|Q8DTF7|Q8DTF7_STRMU	outside	147	177				
+tr|Q8DTF7|Q8DTF7_STRMU	TMhelix	178	199				
+tr|Q8DTF7|Q8DTF7_STRMU	inside	200	218				
+//
+# tr|Q8DTF9|Q8DTF9_STRMU Length: 360
+# tr|Q8DTF9|Q8DTF9_STRMU Number of predicted TMRs: 0
+tr|Q8DTF9|Q8DTF9_STRMU	inside	1	360				
+//
+# tr|Q8DTG0|Q8DTG0_STRMU Length: 326
+# tr|Q8DTG0|Q8DTG0_STRMU Number of predicted TMRs: 0
+tr|Q8DTG0|Q8DTG0_STRMU	inside	1	326				
+//
+# tr|Q8DTG6|Q8DTG6_STRMU Length: 178
+# tr|Q8DTG6|Q8DTG6_STRMU Number of predicted TMRs: 0
+tr|Q8DTG6|Q8DTG6_STRMU	outside	1	178				
+//
+# tr|Q8DTG7|Q8DTG7_STRMU Length: 261
+# tr|Q8DTG7|Q8DTG7_STRMU Number of predicted TMRs: 0
+tr|Q8DTG7|Q8DTG7_STRMU	inside	1	261				
+//
+# tr|Q8DTG8|Q8DTG8_STRMU Length: 201
+# tr|Q8DTG8|Q8DTG8_STRMU Number of predicted TMRs: 0
+tr|Q8DTG8|Q8DTG8_STRMU	inside	1	201				
+//
+# tr|Q8DTG9|Q8DTG9_STRMU Length: 67
+# tr|Q8DTG9|Q8DTG9_STRMU Number of predicted TMRs: 0
+tr|Q8DTG9|Q8DTG9_STRMU	inside	1	67				
+//
+# tr|Q8DTH0|Q8DTH0_STRMU Length: 60
+# tr|Q8DTH0|Q8DTH0_STRMU Number of predicted TMRs: 0
+tr|Q8DTH0|Q8DTH0_STRMU	inside	1	60				
+//
+# tr|Q8DTH1|Q8DTH1_STRMU Length: 80
+# tr|Q8DTH1|Q8DTH1_STRMU Number of predicted TMRs: 0
+tr|Q8DTH1|Q8DTH1_STRMU	inside	1	80				
+//
+# tr|Q8DTH2|Q8DTH2_STRMU Length: 205
+# tr|Q8DTH2|Q8DTH2_STRMU Number of predicted TMRs: 0
+tr|Q8DTH2|Q8DTH2_STRMU	inside	1	205				
+//
+# tr|Q8DTH3|Q8DTH3_STRMU Length: 40
+# tr|Q8DTH3|Q8DTH3_STRMU Number of predicted TMRs: 0
+tr|Q8DTH3|Q8DTH3_STRMU	inside	1	40				
+//
+# tr|Q8DTH4|Q8DTH4_STRMU Length: 39
+# tr|Q8DTH4|Q8DTH4_STRMU Number of predicted TMRs: 0
+tr|Q8DTH4|Q8DTH4_STRMU	inside	1	39				
+//
+# tr|Q8DTH5|Q8DTH5_STRMU Length: 199
+# tr|Q8DTH5|Q8DTH5_STRMU Number of predicted TMRs: 0
+tr|Q8DTH5|Q8DTH5_STRMU	inside	1	199				
+//
+# tr|Q8DTH6|Q8DTH6_STRMU Length: 781
+# tr|Q8DTH6|Q8DTH6_STRMU Number of predicted TMRs: 8
+tr|Q8DTH6|Q8DTH6_STRMU	inside	1	19				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	20	40				
+tr|Q8DTH6|Q8DTH6_STRMU	outside	41	262				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	263	278				
+tr|Q8DTH6|Q8DTH6_STRMU	inside	279	308				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	309	335				
+tr|Q8DTH6|Q8DTH6_STRMU	outside	336	353				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	354	374				
+tr|Q8DTH6|Q8DTH6_STRMU	inside	375	428				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	429	449				
+tr|Q8DTH6|Q8DTH6_STRMU	outside	450	649				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	650	668				
+tr|Q8DTH6|Q8DTH6_STRMU	inside	669	704				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	705	727				
+tr|Q8DTH6|Q8DTH6_STRMU	outside	728	743				
+tr|Q8DTH6|Q8DTH6_STRMU	TMhelix	744	763				
+tr|Q8DTH6|Q8DTH6_STRMU	inside	764	781				
+//
+# tr|Q8DTH7|Q8DTH7_STRMU Length: 93
+# tr|Q8DTH7|Q8DTH7_STRMU Number of predicted TMRs: 0
+tr|Q8DTH7|Q8DTH7_STRMU	inside	1	93				
+//
+# tr|Q8DTH8|Q8DTH8_STRMU Length: 193
+# tr|Q8DTH8|Q8DTH8_STRMU Number of predicted TMRs: 0
+tr|Q8DTH8|Q8DTH8_STRMU	inside	1	193				
+//
+# tr|Q8DTH9|Q8DTH9_STRMU Length: 42
+# tr|Q8DTH9|Q8DTH9_STRMU Number of predicted TMRs: 0
+tr|Q8DTH9|Q8DTH9_STRMU	inside	1	42				
+//
+# tr|Q8DTI0|Q8DTI0_STRMU Length: 36
+# tr|Q8DTI0|Q8DTI0_STRMU Number of predicted TMRs: 0
+tr|Q8DTI0|Q8DTI0_STRMU	inside	1	36				
+//
+# tr|Q8DTI1|Q8DTI1_STRMU Length: 33
+# tr|Q8DTI1|Q8DTI1_STRMU Number of predicted TMRs: 0
+tr|Q8DTI1|Q8DTI1_STRMU	signal	1	14				
+tr|Q8DTI1|Q8DTI1_STRMU	outside	15	33				
+//
+# tr|Q8DTI2|Q8DTI2_STRMU Length: 78
+# tr|Q8DTI2|Q8DTI2_STRMU Number of predicted TMRs: 0
+tr|Q8DTI2|Q8DTI2_STRMU	inside	1	78				
+//
+# tr|Q8DTI3|Q8DTI3_STRMU Length: 96
+# tr|Q8DTI3|Q8DTI3_STRMU Number of predicted TMRs: 0
+tr|Q8DTI3|Q8DTI3_STRMU	inside	1	96				
+//
+# tr|Q8DTI4|Q8DTI4_STRMU Length: 97
+# tr|Q8DTI4|Q8DTI4_STRMU Number of predicted TMRs: 0
+tr|Q8DTI4|Q8DTI4_STRMU	inside	1	97				
+//
+# tr|Q8DTI5|Q8DTI5_STRMU Length: 86
+# tr|Q8DTI5|Q8DTI5_STRMU Number of predicted TMRs: 0
+tr|Q8DTI5|Q8DTI5_STRMU	inside	1	86				
+//
+# tr|Q8DTI6|Q8DTI6_STRMU Length: 51
+# tr|Q8DTI6|Q8DTI6_STRMU Number of predicted TMRs: 0
+tr|Q8DTI6|Q8DTI6_STRMU	inside	1	51				
+//
+# tr|Q8DTI7|Q8DTI7_STRMU Length: 107
+# tr|Q8DTI7|Q8DTI7_STRMU Number of predicted TMRs: 0
+tr|Q8DTI7|Q8DTI7_STRMU	inside	1	107				
+//
+# tr|Q8DTI8|Q8DTI8_STRMU Length: 122
+# tr|Q8DTI8|Q8DTI8_STRMU Number of predicted TMRs: 0
+tr|Q8DTI8|Q8DTI8_STRMU	inside	1	122				
+//
+# tr|Q8DTI9|Q8DTI9_STRMU Length: 191
+# tr|Q8DTI9|Q8DTI9_STRMU Number of predicted TMRs: 0
+tr|Q8DTI9|Q8DTI9_STRMU	inside	1	191				
+//
+# tr|Q8DTJ0|Q8DTJ0_STRMU Length: 780
+# tr|Q8DTJ0|Q8DTJ0_STRMU Number of predicted TMRs: 8
+tr|Q8DTJ0|Q8DTJ0_STRMU	inside	1	18				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	19	39				
+tr|Q8DTJ0|Q8DTJ0_STRMU	outside	40	261				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	262	277				
+tr|Q8DTJ0|Q8DTJ0_STRMU	inside	278	307				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	308	334				
+tr|Q8DTJ0|Q8DTJ0_STRMU	outside	335	352				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	353	373				
+tr|Q8DTJ0|Q8DTJ0_STRMU	inside	374	427				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	428	448				
+tr|Q8DTJ0|Q8DTJ0_STRMU	outside	449	648				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	649	667				
+tr|Q8DTJ0|Q8DTJ0_STRMU	inside	668	703				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	704	726				
+tr|Q8DTJ0|Q8DTJ0_STRMU	outside	727	742				
+tr|Q8DTJ0|Q8DTJ0_STRMU	TMhelix	743	762				
+tr|Q8DTJ0|Q8DTJ0_STRMU	inside	763	780				
+//
+# tr|Q8DTJ1|Q8DTJ1_STRMU Length: 239
+# tr|Q8DTJ1|Q8DTJ1_STRMU Number of predicted TMRs: 0
+tr|Q8DTJ1|Q8DTJ1_STRMU	inside	1	239				
+//
+# tr|Q8DTJ2|Q8DTJ2_STRMU Length: 633
+# tr|Q8DTJ2|Q8DTJ2_STRMU Number of predicted TMRs: 0
+tr|Q8DTJ2|Q8DTJ2_STRMU	inside	1	633				
+//
+# tr|Q8DTJ3|Q8DTJ3_STRMU Length: 405
+# tr|Q8DTJ3|Q8DTJ3_STRMU Number of predicted TMRs: 0
+tr|Q8DTJ3|Q8DTJ3_STRMU	inside	1	405				
+//
+# tr|Q8DTJ4|Q8DTJ4_STRMU Length: 1104
+# tr|Q8DTJ4|Q8DTJ4_STRMU Number of predicted TMRs: 0
+tr|Q8DTJ4|Q8DTJ4_STRMU	inside	1	1104				
+//
+# tr|Q8DTJ5|Q8DTJ5_STRMU Length: 2724
+# tr|Q8DTJ5|Q8DTJ5_STRMU Number of predicted TMRs: 0
+tr|Q8DTJ5|Q8DTJ5_STRMU	inside	1	2724				
+//
+# tr|Q8DTJ6|Q8DTJ6_STRMU Length: 1229
+# tr|Q8DTJ6|Q8DTJ6_STRMU Number of predicted TMRs: 0
+tr|Q8DTJ6|Q8DTJ6_STRMU	inside	1	1229				
+//
+# tr|Q8DTJ8|Q8DTJ8_STRMU Length: 1455
+# tr|Q8DTJ8|Q8DTJ8_STRMU Number of predicted TMRs: 0
+tr|Q8DTJ8|Q8DTJ8_STRMU	inside	1	1455				
+//
+# tr|Q8DTJ9|Q8DTJ9_STRMU Length: 384
+# tr|Q8DTJ9|Q8DTJ9_STRMU Number of predicted TMRs: 12
+tr|Q8DTJ9|Q8DTJ9_STRMU	inside	1	1				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	2	11				
+tr|Q8DTJ9|Q8DTJ9_STRMU	outside	12	17				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	18	38				
+tr|Q8DTJ9|Q8DTJ9_STRMU	inside	39	51				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	52	69				
+tr|Q8DTJ9|Q8DTJ9_STRMU	outside	70	76				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	77	94				
+tr|Q8DTJ9|Q8DTJ9_STRMU	inside	95	120				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	121	135				
+tr|Q8DTJ9|Q8DTJ9_STRMU	outside	136	141				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	142	157				
+tr|Q8DTJ9|Q8DTJ9_STRMU	inside	158	193				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	194	209				
+tr|Q8DTJ9|Q8DTJ9_STRMU	outside	210	231				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	232	254				
+tr|Q8DTJ9|Q8DTJ9_STRMU	inside	255	265				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	266	284				
+tr|Q8DTJ9|Q8DTJ9_STRMU	outside	285	289				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	290	310				
+tr|Q8DTJ9|Q8DTJ9_STRMU	inside	311	331				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	332	352				
+tr|Q8DTJ9|Q8DTJ9_STRMU	outside	353	357				
+tr|Q8DTJ9|Q8DTJ9_STRMU	TMhelix	358	378				
+tr|Q8DTJ9|Q8DTJ9_STRMU	inside	379	384				
+//
+# tr|Q8DTK0|Q8DTK0_STRMU Length: 249
+# tr|Q8DTK0|Q8DTK0_STRMU Number of predicted TMRs: 0
+tr|Q8DTK0|Q8DTK0_STRMU	inside	1	249				
+//
+# tr|Q8DTK1|Q8DTK1_STRMU Length: 312
+# tr|Q8DTK1|Q8DTK1_STRMU Number of predicted TMRs: 0
+tr|Q8DTK1|Q8DTK1_STRMU	inside	1	312				
+//
+# tr|Q8DTK2|Q8DTK2_STRMU Length: 327
+# tr|Q8DTK2|Q8DTK2_STRMU Number of predicted TMRs: 0
+tr|Q8DTK2|Q8DTK2_STRMU	inside	1	327				
+//
+# tr|Q8DTK3|Q8DTK3_STRMU Length: 230
+# tr|Q8DTK3|Q8DTK3_STRMU Number of predicted TMRs: 0
+tr|Q8DTK3|Q8DTK3_STRMU	inside	1	230				
+//
+# tr|Q8DTK4|Q8DTK4_STRMU Length: 87
+# tr|Q8DTK4|Q8DTK4_STRMU Number of predicted TMRs: 0
+tr|Q8DTK4|Q8DTK4_STRMU	inside	1	87				
+//
+# tr|Q8DTK5|Q8DTK5_STRMU Length: 181
+# tr|Q8DTK5|Q8DTK5_STRMU Number of predicted TMRs: 0
+tr|Q8DTK5|Q8DTK5_STRMU	inside	1	181				
+//
+# tr|Q8DTK6|Q8DTK6_STRMU Length: 46
+# tr|Q8DTK6|Q8DTK6_STRMU Number of predicted TMRs: 0
+tr|Q8DTK6|Q8DTK6_STRMU	inside	1	46				
+//
+# tr|Q8DTK7|Q8DTK7_STRMU Length: 157
+# tr|Q8DTK7|Q8DTK7_STRMU Number of predicted TMRs: 0
+tr|Q8DTK7|Q8DTK7_STRMU	inside	1	157				
+//
+# tr|Q8DTK8|Q8DTK8_STRMU Length: 373
+# tr|Q8DTK8|Q8DTK8_STRMU Number of predicted TMRs: 0
+tr|Q8DTK8|Q8DTK8_STRMU	inside	1	373				
+//
+# tr|Q8DTL2|Q8DTL2_STRMU Length: 212
+# tr|Q8DTL2|Q8DTL2_STRMU Number of predicted TMRs: 0
+tr|Q8DTL2|Q8DTL2_STRMU	inside	1	212				
+//
+# tr|Q8DTL4|Q8DTL4_STRMU Length: 392
+# tr|Q8DTL4|Q8DTL4_STRMU Number of predicted TMRs: 0
+tr|Q8DTL4|Q8DTL4_STRMU	inside	1	392				
+//
+# tr|Q8DTL5|Q8DTL5_STRMU Length: 234
+# tr|Q8DTL5|Q8DTL5_STRMU Number of predicted TMRs: 0
+tr|Q8DTL5|Q8DTL5_STRMU	inside	1	234				
+//
+# tr|Q8DTL6|Q8DTL6_STRMU Length: 75
+# tr|Q8DTL6|Q8DTL6_STRMU Number of predicted TMRs: 0
+tr|Q8DTL6|Q8DTL6_STRMU	inside	1	75				
+//
+# tr|Q8DTL7|Q8DTL7_STRMU Length: 243
+# tr|Q8DTL7|Q8DTL7_STRMU Number of predicted TMRs: 6
+tr|Q8DTL7|Q8DTL7_STRMU	inside	1	20				
+tr|Q8DTL7|Q8DTL7_STRMU	TMhelix	21	39				
+tr|Q8DTL7|Q8DTL7_STRMU	outside	40	57				
+tr|Q8DTL7|Q8DTL7_STRMU	TMhelix	58	67				
+tr|Q8DTL7|Q8DTL7_STRMU	inside	68	100				
+tr|Q8DTL7|Q8DTL7_STRMU	TMhelix	101	122				
+tr|Q8DTL7|Q8DTL7_STRMU	outside	123	130				
+tr|Q8DTL7|Q8DTL7_STRMU	TMhelix	131	153				
+tr|Q8DTL7|Q8DTL7_STRMU	inside	154	160				
+tr|Q8DTL7|Q8DTL7_STRMU	TMhelix	161	177				
+tr|Q8DTL7|Q8DTL7_STRMU	outside	178	213				
+tr|Q8DTL7|Q8DTL7_STRMU	TMhelix	214	231				
+tr|Q8DTL7|Q8DTL7_STRMU	inside	232	243				
+//
+# tr|Q8DTL8|Q8DTL8_STRMU Length: 217
+# tr|Q8DTL8|Q8DTL8_STRMU Number of predicted TMRs: 0
+tr|Q8DTL8|Q8DTL8_STRMU	inside	1	217				
+//
+# tr|Q8DTL9|Q8DTL9_STRMU Length: 227
+# tr|Q8DTL9|Q8DTL9_STRMU Number of predicted TMRs: 0
+tr|Q8DTL9|Q8DTL9_STRMU	inside	1	227				
+//
+# tr|Q8DTM3|Q8DTM3_STRMU Length: 45
+# tr|Q8DTM3|Q8DTM3_STRMU Number of predicted TMRs: 0
+tr|Q8DTM3|Q8DTM3_STRMU	signal	1	16				
+tr|Q8DTM3|Q8DTM3_STRMU	outside	17	45				
+//
+# tr|Q8DTM4|Q8DTM4_STRMU Length: 363
+# tr|Q8DTM4|Q8DTM4_STRMU Number of predicted TMRs: 0
+tr|Q8DTM4|Q8DTM4_STRMU	inside	1	363				
+//
+# tr|Q8DTM5|Q8DTM5_STRMU Length: 125
+# tr|Q8DTM5|Q8DTM5_STRMU Number of predicted TMRs: 0
+tr|Q8DTM5|Q8DTM5_STRMU	inside	1	125				
+//
+# tr|Q8DTM6|Q8DTM6_STRMU Length: 252
+# tr|Q8DTM6|Q8DTM6_STRMU Number of predicted TMRs: 2
+tr|Q8DTM6|Q8DTM6_STRMU	inside	1	119				
+tr|Q8DTM6|Q8DTM6_STRMU	TMhelix	120	139				
+tr|Q8DTM6|Q8DTM6_STRMU	outside	140	150				
+tr|Q8DTM6|Q8DTM6_STRMU	TMhelix	151	171				
+tr|Q8DTM6|Q8DTM6_STRMU	inside	172	252				
+//
+# tr|Q8DTN1|Q8DTN1_STRMU Length: 506
+# tr|Q8DTN1|Q8DTN1_STRMU Number of predicted TMRs: 0
+tr|Q8DTN1|Q8DTN1_STRMU	signal	1	25				
+tr|Q8DTN1|Q8DTN1_STRMU	outside	26	506				
+//
+# tr|Q8DTN2|Q8DTN2_STRMU Length: 251
+# tr|Q8DTN2|Q8DTN2_STRMU Number of predicted TMRs: 0
+tr|Q8DTN2|Q8DTN2_STRMU	inside	1	251				
+//
+# tr|Q8DTN3|Q8DTN3_STRMU Length: 115
+# tr|Q8DTN3|Q8DTN3_STRMU Number of predicted TMRs: 0
+tr|Q8DTN3|Q8DTN3_STRMU	inside	1	115				
+//
+# tr|Q8DTN4|Q8DTN4_STRMU Length: 107
+# tr|Q8DTN4|Q8DTN4_STRMU Number of predicted TMRs: 0
+tr|Q8DTN4|Q8DTN4_STRMU	inside	1	107				
+//
+# tr|Q8DTP0|Q8DTP0_STRMU Length: 460
+# tr|Q8DTP0|Q8DTP0_STRMU Number of predicted TMRs: 0
+tr|Q8DTP0|Q8DTP0_STRMU	inside	1	460				
+//
+# tr|Q8DTP1|Q8DTP1_STRMU Length: 225
+# tr|Q8DTP1|Q8DTP1_STRMU Number of predicted TMRs: 8
+tr|Q8DTP1|Q8DTP1_STRMU	inside	1	13				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	14	31				
+tr|Q8DTP1|Q8DTP1_STRMU	outside	32	62				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	63	79				
+tr|Q8DTP1|Q8DTP1_STRMU	inside	80	80				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	81	92				
+tr|Q8DTP1|Q8DTP1_STRMU	outside	93	94				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	95	115				
+tr|Q8DTP1|Q8DTP1_STRMU	inside	116	141				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	142	151				
+tr|Q8DTP1|Q8DTP1_STRMU	outside	152	152				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	153	162				
+tr|Q8DTP1|Q8DTP1_STRMU	inside	163	173				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	174	192				
+tr|Q8DTP1|Q8DTP1_STRMU	outside	193	199				
+tr|Q8DTP1|Q8DTP1_STRMU	TMhelix	200	220				
+tr|Q8DTP1|Q8DTP1_STRMU	inside	221	225				
+//
+# tr|Q8DTP2|Q8DTP2_STRMU Length: 90
+# tr|Q8DTP2|Q8DTP2_STRMU Number of predicted TMRs: 0
+tr|Q8DTP2|Q8DTP2_STRMU	inside	1	90				
+//
+# tr|Q8DTP3|Q8DTP3_STRMU Length: 406
+# tr|Q8DTP3|Q8DTP3_STRMU Number of predicted TMRs: 10
+tr|Q8DTP3|Q8DTP3_STRMU	inside	1	17				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	18	38				
+tr|Q8DTP3|Q8DTP3_STRMU	outside	39	55				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	56	69				
+tr|Q8DTP3|Q8DTP3_STRMU	inside	70	156				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	157	166				
+tr|Q8DTP3|Q8DTP3_STRMU	outside	167	167				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	168	177				
+tr|Q8DTP3|Q8DTP3_STRMU	inside	178	184				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	185	195				
+tr|Q8DTP3|Q8DTP3_STRMU	outside	196	221				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	222	243				
+tr|Q8DTP3|Q8DTP3_STRMU	inside	244	257				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	258	275				
+tr|Q8DTP3|Q8DTP3_STRMU	outside	276	301				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	302	315				
+tr|Q8DTP3|Q8DTP3_STRMU	inside	316	316				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	317	337				
+tr|Q8DTP3|Q8DTP3_STRMU	outside	338	378				
+tr|Q8DTP3|Q8DTP3_STRMU	TMhelix	379	392				
+tr|Q8DTP3|Q8DTP3_STRMU	inside	393	406				
+//
+# tr|Q8DTP4|Q8DTP4_STRMU Length: 406
+# tr|Q8DTP4|Q8DTP4_STRMU Number of predicted TMRs: 7
+tr|Q8DTP4|Q8DTP4_STRMU	inside	1	17				
+tr|Q8DTP4|Q8DTP4_STRMU	TMhelix	18	38				
+tr|Q8DTP4|Q8DTP4_STRMU	outside	39	56				
+tr|Q8DTP4|Q8DTP4_STRMU	TMhelix	57	70				
+tr|Q8DTP4|Q8DTP4_STRMU	inside	71	184				
+tr|Q8DTP4|Q8DTP4_STRMU	TMhelix	185	195				
+tr|Q8DTP4|Q8DTP4_STRMU	outside	196	221				
+tr|Q8DTP4|Q8DTP4_STRMU	TMhelix	222	243				
+tr|Q8DTP4|Q8DTP4_STRMU	inside	244	260				
+tr|Q8DTP4|Q8DTP4_STRMU	TMhelix	261	275				
+tr|Q8DTP4|Q8DTP4_STRMU	outside	276	301				
+tr|Q8DTP4|Q8DTP4_STRMU	TMhelix	302	315				
+tr|Q8DTP4|Q8DTP4_STRMU	inside	316	378				
+tr|Q8DTP4|Q8DTP4_STRMU	TMhelix	379	392				
+tr|Q8DTP4|Q8DTP4_STRMU	outside	393	406				
+//
+# tr|Q8DTP6|Q8DTP6_STRMU Length: 116
+# tr|Q8DTP6|Q8DTP6_STRMU Number of predicted TMRs: 0
+tr|Q8DTP6|Q8DTP6_STRMU	inside	1	116				
+//
+# tr|Q8DTP7|Q8DTP7_STRMU Length: 392
+# tr|Q8DTP7|Q8DTP7_STRMU Number of predicted TMRs: 12
+tr|Q8DTP7|Q8DTP7_STRMU	inside	1	10				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	11	32				
+tr|Q8DTP7|Q8DTP7_STRMU	outside	33	50				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	51	71				
+tr|Q8DTP7|Q8DTP7_STRMU	inside	72	77				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	78	96				
+tr|Q8DTP7|Q8DTP7_STRMU	outside	97	101				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	102	122				
+tr|Q8DTP7|Q8DTP7_STRMU	inside	123	135				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	136	156				
+tr|Q8DTP7|Q8DTP7_STRMU	outside	157	166				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	167	184				
+tr|Q8DTP7|Q8DTP7_STRMU	inside	185	215				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	216	236				
+tr|Q8DTP7|Q8DTP7_STRMU	outside	237	250				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	251	268				
+tr|Q8DTP7|Q8DTP7_STRMU	inside	269	279				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	280	297				
+tr|Q8DTP7|Q8DTP7_STRMU	outside	298	302				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	303	319				
+tr|Q8DTP7|Q8DTP7_STRMU	inside	320	339				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	340	356				
+tr|Q8DTP7|Q8DTP7_STRMU	outside	357	366				
+tr|Q8DTP7|Q8DTP7_STRMU	TMhelix	367	384				
+tr|Q8DTP7|Q8DTP7_STRMU	inside	385	392				
+//
+# tr|Q8DTP8|Q8DTP8_STRMU Length: 219
+# tr|Q8DTP8|Q8DTP8_STRMU Number of predicted TMRs: 0
+tr|Q8DTP8|Q8DTP8_STRMU	inside	1	219				
+//
+# tr|Q8DTP9|Q8DTP9_STRMU Length: 188
+# tr|Q8DTP9|Q8DTP9_STRMU Number of predicted TMRs: 0
+tr|Q8DTP9|Q8DTP9_STRMU	inside	1	188				
+//
+# tr|Q8DTQ0|Q8DTQ0_STRMU Length: 372
+# tr|Q8DTQ0|Q8DTQ0_STRMU Number of predicted TMRs: 0
+tr|Q8DTQ0|Q8DTQ0_STRMU	inside	1	372				
+//
+# tr|Q8DTQ1|Q8DTQ1_STRMU Length: 194
+# tr|Q8DTQ1|Q8DTQ1_STRMU Number of predicted TMRs: 0
+tr|Q8DTQ1|Q8DTQ1_STRMU	inside	1	194				
+//
+# tr|Q8DTR0|Q8DTR0_STRMU Length: 120
+# tr|Q8DTR0|Q8DTR0_STRMU Number of predicted TMRs: 4
+tr|Q8DTR0|Q8DTR0_STRMU	inside	1	13				
+tr|Q8DTR0|Q8DTR0_STRMU	TMhelix	14	30				
+tr|Q8DTR0|Q8DTR0_STRMU	outside	31	37				
+tr|Q8DTR0|Q8DTR0_STRMU	TMhelix	38	54				
+tr|Q8DTR0|Q8DTR0_STRMU	inside	55	71				
+tr|Q8DTR0|Q8DTR0_STRMU	TMhelix	72	89				
+tr|Q8DTR0|Q8DTR0_STRMU	outside	90	95				
+tr|Q8DTR0|Q8DTR0_STRMU	TMhelix	96	112				
+tr|Q8DTR0|Q8DTR0_STRMU	inside	113	120				
+//
+# tr|Q8DTR5|Q8DTR5_STRMU Length: 446
+# tr|Q8DTR5|Q8DTR5_STRMU Number of predicted TMRs: 12
+tr|Q8DTR5|Q8DTR5_STRMU	inside	1	23				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	24	42				
+tr|Q8DTR5|Q8DTR5_STRMU	outside	43	51				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	52	69				
+tr|Q8DTR5|Q8DTR5_STRMU	inside	70	77				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	78	92				
+tr|Q8DTR5|Q8DTR5_STRMU	outside	93	99				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	100	114				
+tr|Q8DTR5|Q8DTR5_STRMU	inside	115	131				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	132	148				
+tr|Q8DTR5|Q8DTR5_STRMU	outside	149	172				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	173	193				
+tr|Q8DTR5|Q8DTR5_STRMU	inside	194	215				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	216	232				
+tr|Q8DTR5|Q8DTR5_STRMU	outside	233	243				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	244	259				
+tr|Q8DTR5|Q8DTR5_STRMU	inside	260	275				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	276	294				
+tr|Q8DTR5|Q8DTR5_STRMU	outside	295	300				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	301	319				
+tr|Q8DTR5|Q8DTR5_STRMU	inside	320	338				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	339	349				
+tr|Q8DTR5|Q8DTR5_STRMU	outside	350	385				
+tr|Q8DTR5|Q8DTR5_STRMU	TMhelix	386	408				
+tr|Q8DTR5|Q8DTR5_STRMU	inside	409	446				
+//
+# tr|Q8DTR8|Q8DTR8_STRMU Length: 108
+# tr|Q8DTR8|Q8DTR8_STRMU Number of predicted TMRs: 0
+tr|Q8DTR8|Q8DTR8_STRMU	inside	1	108				
+//
+# tr|Q8DTR9|Q8DTR9_STRMU Length: 220
+# tr|Q8DTR9|Q8DTR9_STRMU Number of predicted TMRs: 0
+tr|Q8DTR9|Q8DTR9_STRMU	inside	1	220				
+//
+# tr|Q8DTS1|Q8DTS1_STRMU Length: 54
+# tr|Q8DTS1|Q8DTS1_STRMU Number of predicted TMRs: 0
+tr|Q8DTS1|Q8DTS1_STRMU	inside	1	54				
+//
+# tr|Q8DTS2|Q8DTS2_STRMU Length: 85
+# tr|Q8DTS2|Q8DTS2_STRMU Number of predicted TMRs: 0
+tr|Q8DTS2|Q8DTS2_STRMU	inside	1	85				
+//
+# tr|Q8DTS3|Q8DTS3_STRMU Length: 214
+# tr|Q8DTS3|Q8DTS3_STRMU Number of predicted TMRs: 0
+tr|Q8DTS3|Q8DTS3_STRMU	inside	1	214				
+//
+# tr|Q8DTS4|Q8DTS4_STRMU Length: 141
+# tr|Q8DTS4|Q8DTS4_STRMU Number of predicted TMRs: 0
+tr|Q8DTS4|Q8DTS4_STRMU	inside	1	141				
+//
+# tr|Q8DTS5|Q8DTS5_STRMU Length: 370
+# tr|Q8DTS5|Q8DTS5_STRMU Number of predicted TMRs: 0
+tr|Q8DTS5|Q8DTS5_STRMU	inside	1	370				
+//
+# tr|Q8DTS6|Q8DTS6_STRMU Length: 150
+# tr|Q8DTS6|Q8DTS6_STRMU Number of predicted TMRs: 0
+tr|Q8DTS6|Q8DTS6_STRMU	inside	1	150				
+//
+# tr|Q8DTS7|Q8DTS7_STRMU Length: 89
+# tr|Q8DTS7|Q8DTS7_STRMU Number of predicted TMRs: 1
+tr|Q8DTS7|Q8DTS7_STRMU	inside	1	9				
+tr|Q8DTS7|Q8DTS7_STRMU	TMhelix	10	30				
+tr|Q8DTS7|Q8DTS7_STRMU	outside	31	89				
+//
+# tr|Q8DTS8|Q8DTS8_STRMU Length: 213
+# tr|Q8DTS8|Q8DTS8_STRMU Number of predicted TMRs: 1
+tr|Q8DTS8|Q8DTS8_STRMU	inside	1	9				
+tr|Q8DTS8|Q8DTS8_STRMU	TMhelix	10	32				
+tr|Q8DTS8|Q8DTS8_STRMU	outside	33	213				
+//
+# tr|Q8DTT0|Q8DTT0_STRMU Length: 98
+# tr|Q8DTT0|Q8DTT0_STRMU Number of predicted TMRs: 0
+tr|Q8DTT0|Q8DTT0_STRMU	inside	1	98				
+//
+# tr|Q8DTT1|Q8DTT1_STRMU Length: 185
+# tr|Q8DTT1|Q8DTT1_STRMU Number of predicted TMRs: 0
+tr|Q8DTT1|Q8DTT1_STRMU	inside	1	185				
+//
+# tr|Q8DTT2|Q8DTT2_STRMU Length: 356
+# tr|Q8DTT2|Q8DTT2_STRMU Number of predicted TMRs: 11
+tr|Q8DTT2|Q8DTT2_STRMU	inside	1	10				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	11	31				
+tr|Q8DTT2|Q8DTT2_STRMU	outside	32	40				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	41	61				
+tr|Q8DTT2|Q8DTT2_STRMU	inside	62	72				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	73	90				
+tr|Q8DTT2|Q8DTT2_STRMU	outside	91	102				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	103	123				
+tr|Q8DTT2|Q8DTT2_STRMU	inside	124	136				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	137	154				
+tr|Q8DTT2|Q8DTT2_STRMU	outside	155	160				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	161	176				
+tr|Q8DTT2|Q8DTT2_STRMU	inside	177	194				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	195	211				
+tr|Q8DTT2|Q8DTT2_STRMU	outside	212	222				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	223	243				
+tr|Q8DTT2|Q8DTT2_STRMU	inside	244	256				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	257	274				
+tr|Q8DTT2|Q8DTT2_STRMU	outside	275	284				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	285	294				
+tr|Q8DTT2|Q8DTT2_STRMU	inside	295	295				
+tr|Q8DTT2|Q8DTT2_STRMU	TMhelix	296	305				
+tr|Q8DTT2|Q8DTT2_STRMU	outside	306	356				
+//
+# tr|Q8DTT3|Q8DTT3_STRMU Length: 200
+# tr|Q8DTT3|Q8DTT3_STRMU Number of predicted TMRs: 0
+tr|Q8DTT3|Q8DTT3_STRMU	inside	1	200				
+//
+# tr|Q8DTT4|Q8DTT4_STRMU Length: 470
+# tr|Q8DTT4|Q8DTT4_STRMU Number of predicted TMRs: 0
+tr|Q8DTT4|Q8DTT4_STRMU	inside	1	470				
+//
+# tr|Q8DTT5|Q8DTT5_STRMU Length: 195
+# tr|Q8DTT5|Q8DTT5_STRMU Number of predicted TMRs: 0
+tr|Q8DTT5|Q8DTT5_STRMU	inside	1	195				
+//
+# tr|Q8DTT6|Q8DTT6_STRMU Length: 116
+# tr|Q8DTT6|Q8DTT6_STRMU Number of predicted TMRs: 0
+tr|Q8DTT6|Q8DTT6_STRMU	inside	1	116				
+//
+# tr|Q8DTT7|Q8DTT7_STRMU Length: 267
+# tr|Q8DTT7|Q8DTT7_STRMU Number of predicted TMRs: 0
+tr|Q8DTT7|Q8DTT7_STRMU	inside	1	267				
+//
+# tr|Q8DTU1|Q8DTU1_STRMU Length: 71
+# tr|Q8DTU1|Q8DTU1_STRMU Number of predicted TMRs: 0
+tr|Q8DTU1|Q8DTU1_STRMU	inside	1	71				
+//
+# tr|Q8DTU2|Q8DTU2_STRMU Length: 31
+# tr|Q8DTU2|Q8DTU2_STRMU Number of predicted TMRs: 0
+tr|Q8DTU2|Q8DTU2_STRMU	inside	1	31				
+//
+# tr|Q8DTU3|Q8DTU3_STRMU Length: 158
+# tr|Q8DTU3|Q8DTU3_STRMU Number of predicted TMRs: 0
+tr|Q8DTU3|Q8DTU3_STRMU	inside	1	158				
+//
+# tr|Q8DTU5|Q8DTU5_STRMU Length: 236
+# tr|Q8DTU5|Q8DTU5_STRMU Number of predicted TMRs: 0
+tr|Q8DTU5|Q8DTU5_STRMU	inside	1	236				
+//
+# tr|Q8DTU7|Q8DTU7_STRMU Length: 255
+# tr|Q8DTU7|Q8DTU7_STRMU Number of predicted TMRs: 0
+tr|Q8DTU7|Q8DTU7_STRMU	inside	1	255				
+//
+# tr|Q8DTU8|Q8DTU8_STRMU Length: 302
+# tr|Q8DTU8|Q8DTU8_STRMU Number of predicted TMRs: 0
+tr|Q8DTU8|Q8DTU8_STRMU	inside	1	302				
+//
+# tr|Q8DTV3|Q8DTV3_STRMU Length: 166
+# tr|Q8DTV3|Q8DTV3_STRMU Number of predicted TMRs: 0
+tr|Q8DTV3|Q8DTV3_STRMU	outside	1	166				
+//
+# tr|Q8DTV4|Q8DTV4_STRMU Length: 113
+# tr|Q8DTV4|Q8DTV4_STRMU Number of predicted TMRs: 0
+tr|Q8DTV4|Q8DTV4_STRMU	inside	1	113				
+//
+# tr|Q8DTV5|Q8DTV5_STRMU Length: 480
+# tr|Q8DTV5|Q8DTV5_STRMU Number of predicted TMRs: 0
+tr|Q8DTV5|Q8DTV5_STRMU	inside	1	480				
+//
+# tr|Q8DTV6|Q8DTV6_STRMU Length: 283
+# tr|Q8DTV6|Q8DTV6_STRMU Number of predicted TMRs: 0
+tr|Q8DTV6|Q8DTV6_STRMU	signal	1	20				
+tr|Q8DTV6|Q8DTV6_STRMU	outside	21	283				
+//
+# tr|Q8DTV7|Q8DTV7_STRMU Length: 217
+# tr|Q8DTV7|Q8DTV7_STRMU Number of predicted TMRs: 5
+tr|Q8DTV7|Q8DTV7_STRMU	outside	1	14				
+tr|Q8DTV7|Q8DTV7_STRMU	TMhelix	15	40				
+tr|Q8DTV7|Q8DTV7_STRMU	inside	41	56				
+tr|Q8DTV7|Q8DTV7_STRMU	TMhelix	57	77				
+tr|Q8DTV7|Q8DTV7_STRMU	outside	78	91				
+tr|Q8DTV7|Q8DTV7_STRMU	TMhelix	92	107				
+tr|Q8DTV7|Q8DTV7_STRMU	inside	108	144				
+tr|Q8DTV7|Q8DTV7_STRMU	TMhelix	145	165				
+tr|Q8DTV7|Q8DTV7_STRMU	outside	166	185				
+tr|Q8DTV7|Q8DTV7_STRMU	TMhelix	186	206				
+tr|Q8DTV7|Q8DTV7_STRMU	inside	207	217				
+//
+# tr|Q8DTW1|Q8DTW1_STRMU Length: 446
+# tr|Q8DTW1|Q8DTW1_STRMU Number of predicted TMRs: 0
+tr|Q8DTW1|Q8DTW1_STRMU	inside	1	446				
+//
+# tr|Q8DTW2|Q8DTW2_STRMU Length: 251
+# tr|Q8DTW2|Q8DTW2_STRMU Number of predicted TMRs: 0
+tr|Q8DTW2|Q8DTW2_STRMU	inside	1	251				
+//
+# tr|Q8DTW4|Q8DTW4_STRMU Length: 185
+# tr|Q8DTW4|Q8DTW4_STRMU Number of predicted TMRs: 0
+tr|Q8DTW4|Q8DTW4_STRMU	inside	1	185				
+//
+# tr|Q8DTW5|Q8DTW5_STRMU Length: 162
+# tr|Q8DTW5|Q8DTW5_STRMU Number of predicted TMRs: 0
+tr|Q8DTW5|Q8DTW5_STRMU	inside	1	162				
+//
+# tr|Q8DTW8|Q8DTW8_STRMU Length: 53
+# tr|Q8DTW8|Q8DTW8_STRMU Number of predicted TMRs: 0
+tr|Q8DTW8|Q8DTW8_STRMU	inside	1	53				
+//
+# tr|Q8DTX0|Q8DTX0_STRMU Length: 204
+# tr|Q8DTX0|Q8DTX0_STRMU Number of predicted TMRs: 7
+tr|Q8DTX0|Q8DTX0_STRMU	inside	1	14				
+tr|Q8DTX0|Q8DTX0_STRMU	TMhelix	15	35				
+tr|Q8DTX0|Q8DTX0_STRMU	outside	36	54				
+tr|Q8DTX0|Q8DTX0_STRMU	TMhelix	55	75				
+tr|Q8DTX0|Q8DTX0_STRMU	inside	76	77				
+tr|Q8DTX0|Q8DTX0_STRMU	TMhelix	78	87				
+tr|Q8DTX0|Q8DTX0_STRMU	outside	88	89				
+tr|Q8DTX0|Q8DTX0_STRMU	TMhelix	90	111				
+tr|Q8DTX0|Q8DTX0_STRMU	inside	112	142				
+tr|Q8DTX0|Q8DTX0_STRMU	TMhelix	143	153				
+tr|Q8DTX0|Q8DTX0_STRMU	outside	154	154				
+tr|Q8DTX0|Q8DTX0_STRMU	TMhelix	155	164				
+tr|Q8DTX0|Q8DTX0_STRMU	inside	165	171				
+tr|Q8DTX0|Q8DTX0_STRMU	TMhelix	172	192				
+tr|Q8DTX0|Q8DTX0_STRMU	outside	193	204				
+//
+# tr|Q8DTX1|Q8DTX1_STRMU Length: 206
+# tr|Q8DTX1|Q8DTX1_STRMU Number of predicted TMRs: 0
+tr|Q8DTX1|Q8DTX1_STRMU	signal	1	24				
+tr|Q8DTX1|Q8DTX1_STRMU	outside	25	206				
+//
+# tr|Q8DTX2|Q8DTX2_STRMU Length: 272
+# tr|Q8DTX2|Q8DTX2_STRMU Number of predicted TMRs: 6
+tr|Q8DTX2|Q8DTX2_STRMU	inside	1	14				
+tr|Q8DTX2|Q8DTX2_STRMU	TMhelix	15	35				
+tr|Q8DTX2|Q8DTX2_STRMU	outside	36	62				
+tr|Q8DTX2|Q8DTX2_STRMU	TMhelix	63	83				
+tr|Q8DTX2|Q8DTX2_STRMU	inside	84	114				
+tr|Q8DTX2|Q8DTX2_STRMU	TMhelix	115	138				
+tr|Q8DTX2|Q8DTX2_STRMU	outside	139	165				
+tr|Q8DTX2|Q8DTX2_STRMU	TMhelix	166	190				
+tr|Q8DTX2|Q8DTX2_STRMU	inside	191	199				
+tr|Q8DTX2|Q8DTX2_STRMU	TMhelix	200	220				
+tr|Q8DTX2|Q8DTX2_STRMU	outside	221	242				
+tr|Q8DTX2|Q8DTX2_STRMU	TMhelix	243	264				
+tr|Q8DTX2|Q8DTX2_STRMU	inside	265	272				
+//
+# tr|Q8DTX3|Q8DTX3_STRMU Length: 235
+# tr|Q8DTX3|Q8DTX3_STRMU Number of predicted TMRs: 0
+tr|Q8DTX3|Q8DTX3_STRMU	inside	1	235				
+//
+# tr|Q8DTX4|Q8DTX4_STRMU Length: 123
+# tr|Q8DTX4|Q8DTX4_STRMU Number of predicted TMRs: 0
+tr|Q8DTX4|Q8DTX4_STRMU	inside	1	123				
+//
+# tr|Q8DTX8|Q8DTX8_STRMU Length: 80
+# tr|Q8DTX8|Q8DTX8_STRMU Number of predicted TMRs: 3
+tr|Q8DTX8|Q8DTX8_STRMU	outside	1	4				
+tr|Q8DTX8|Q8DTX8_STRMU	TMhelix	5	21				
+tr|Q8DTX8|Q8DTX8_STRMU	inside	22	26				
+tr|Q8DTX8|Q8DTX8_STRMU	TMhelix	27	47				
+tr|Q8DTX8|Q8DTX8_STRMU	outside	48	59				
+tr|Q8DTX8|Q8DTX8_STRMU	TMhelix	60	77				
+tr|Q8DTX8|Q8DTX8_STRMU	inside	78	80				
+//
+# tr|Q8DTY2|Q8DTY2_STRMU Length: 213
+# tr|Q8DTY2|Q8DTY2_STRMU Number of predicted TMRs: 5
+tr|Q8DTY2|Q8DTY2_STRMU	outside	1	10				
+tr|Q8DTY2|Q8DTY2_STRMU	TMhelix	11	40				
+tr|Q8DTY2|Q8DTY2_STRMU	inside	41	48				
+tr|Q8DTY2|Q8DTY2_STRMU	TMhelix	49	73				
+tr|Q8DTY2|Q8DTY2_STRMU	outside	74	85				
+tr|Q8DTY2|Q8DTY2_STRMU	TMhelix	86	103				
+tr|Q8DTY2|Q8DTY2_STRMU	inside	104	136				
+tr|Q8DTY2|Q8DTY2_STRMU	TMhelix	137	153				
+tr|Q8DTY2|Q8DTY2_STRMU	outside	154	181				
+tr|Q8DTY2|Q8DTY2_STRMU	TMhelix	182	202				
+tr|Q8DTY2|Q8DTY2_STRMU	inside	203	213				
+//
+# tr|Q8DTY3|Q8DTY3_STRMU Length: 209
+# tr|Q8DTY3|Q8DTY3_STRMU Number of predicted TMRs: 0
+tr|Q8DTY3|Q8DTY3_STRMU	inside	1	209				
+//
+# tr|Q8DTY4|Q8DTY4_STRMU Length: 277
+# tr|Q8DTY4|Q8DTY4_STRMU Number of predicted TMRs: 0
+tr|Q8DTY4|Q8DTY4_STRMU	signal	1	21				
+tr|Q8DTY4|Q8DTY4_STRMU	outside	22	277				
+//
+# tr|Q8DTY5|Q8DTY5_STRMU Length: 396
+# tr|Q8DTY5|Q8DTY5_STRMU Number of predicted TMRs: 6
+tr|Q8DTY5|Q8DTY5_STRMU	inside	1	15				
+tr|Q8DTY5|Q8DTY5_STRMU	TMhelix	16	36				
+tr|Q8DTY5|Q8DTY5_STRMU	outside	37	44				
+tr|Q8DTY5|Q8DTY5_STRMU	TMhelix	45	65				
+tr|Q8DTY5|Q8DTY5_STRMU	inside	66	82				
+tr|Q8DTY5|Q8DTY5_STRMU	TMhelix	83	104				
+tr|Q8DTY5|Q8DTY5_STRMU	outside	105	118				
+tr|Q8DTY5|Q8DTY5_STRMU	TMhelix	119	138				
+tr|Q8DTY5|Q8DTY5_STRMU	inside	139	159				
+tr|Q8DTY5|Q8DTY5_STRMU	TMhelix	160	175				
+tr|Q8DTY5|Q8DTY5_STRMU	outside	176	182				
+tr|Q8DTY5|Q8DTY5_STRMU	TMhelix	183	200				
+tr|Q8DTY5|Q8DTY5_STRMU	inside	201	396				
+//
+# tr|Q8DTY8|Q8DTY8_STRMU Length: 246
+# tr|Q8DTY8|Q8DTY8_STRMU Number of predicted TMRs: 0
+tr|Q8DTY8|Q8DTY8_STRMU	inside	1	246				
+//
+# tr|Q8DTY9|Q8DTY9_STRMU Length: 256
+# tr|Q8DTY9|Q8DTY9_STRMU Number of predicted TMRs: 0
+tr|Q8DTY9|Q8DTY9_STRMU	inside	1	256				
+//
+# tr|Q8DTZ0|Q8DTZ0_STRMU Length: 237
+# tr|Q8DTZ0|Q8DTZ0_STRMU Number of predicted TMRs: 6
+tr|Q8DTZ0|Q8DTZ0_STRMU	outside	1	9				
+tr|Q8DTZ0|Q8DTZ0_STRMU	TMhelix	10	30				
+tr|Q8DTZ0|Q8DTZ0_STRMU	inside	31	58				
+tr|Q8DTZ0|Q8DTZ0_STRMU	TMhelix	59	79				
+tr|Q8DTZ0|Q8DTZ0_STRMU	outside	80	88				
+tr|Q8DTZ0|Q8DTZ0_STRMU	TMhelix	89	109				
+tr|Q8DTZ0|Q8DTZ0_STRMU	inside	110	134				
+tr|Q8DTZ0|Q8DTZ0_STRMU	TMhelix	135	160				
+tr|Q8DTZ0|Q8DTZ0_STRMU	outside	161	169				
+tr|Q8DTZ0|Q8DTZ0_STRMU	TMhelix	170	192				
+tr|Q8DTZ0|Q8DTZ0_STRMU	inside	193	210				
+tr|Q8DTZ0|Q8DTZ0_STRMU	TMhelix	211	226				
+tr|Q8DTZ0|Q8DTZ0_STRMU	outside	227	237				
+//
+# tr|Q8DTZ1|Q8DTZ1_STRMU Length: 187
+# tr|Q8DTZ1|Q8DTZ1_STRMU Number of predicted TMRs: 0
+tr|Q8DTZ1|Q8DTZ1_STRMU	signal	1	27				
+tr|Q8DTZ1|Q8DTZ1_STRMU	outside	28	187				
+//
+# tr|Q8DTZ2|Q8DTZ2_STRMU Length: 182
+# tr|Q8DTZ2|Q8DTZ2_STRMU Number of predicted TMRs: 0
+tr|Q8DTZ2|Q8DTZ2_STRMU	inside	1	182				
+//
+# tr|Q8DTZ3|Q8DTZ3_STRMU Length: 233
+# tr|Q8DTZ3|Q8DTZ3_STRMU Number of predicted TMRs: 0
+tr|Q8DTZ3|Q8DTZ3_STRMU	inside	1	233				
+//
+# tr|Q8DTZ4|Q8DTZ4_STRMU Length: 877
+# tr|Q8DTZ4|Q8DTZ4_STRMU Number of predicted TMRs: 8
+tr|Q8DTZ4|Q8DTZ4_STRMU	inside	1	20				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	21	38				
+tr|Q8DTZ4|Q8DTZ4_STRMU	outside	39	347				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	348	365				
+tr|Q8DTZ4|Q8DTZ4_STRMU	inside	366	396				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	397	424				
+tr|Q8DTZ4|Q8DTZ4_STRMU	outside	425	440				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	441	463				
+tr|Q8DTZ4|Q8DTZ4_STRMU	inside	464	516				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	517	537				
+tr|Q8DTZ4|Q8DTZ4_STRMU	outside	538	744				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	745	765				
+tr|Q8DTZ4|Q8DTZ4_STRMU	inside	766	799				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	800	823				
+tr|Q8DTZ4|Q8DTZ4_STRMU	outside	824	839				
+tr|Q8DTZ4|Q8DTZ4_STRMU	TMhelix	840	860				
+tr|Q8DTZ4|Q8DTZ4_STRMU	inside	861	877				
+//
+# tr|Q8DTZ5|Q8DTZ5_STRMU Length: 203
+# tr|Q8DTZ5|Q8DTZ5_STRMU Number of predicted TMRs: 0
+tr|Q8DTZ5|Q8DTZ5_STRMU	inside	1	203				
+//
+# tr|Q8DTZ6|Q8DTZ6_STRMU Length: 590
+# tr|Q8DTZ6|Q8DTZ6_STRMU Number of predicted TMRs: 6
+tr|Q8DTZ6|Q8DTZ6_STRMU	inside	1	18				
+tr|Q8DTZ6|Q8DTZ6_STRMU	TMhelix	19	40				
+tr|Q8DTZ6|Q8DTZ6_STRMU	outside	41	63				
+tr|Q8DTZ6|Q8DTZ6_STRMU	TMhelix	64	84				
+tr|Q8DTZ6|Q8DTZ6_STRMU	inside	85	136				
+tr|Q8DTZ6|Q8DTZ6_STRMU	TMhelix	137	157				
+tr|Q8DTZ6|Q8DTZ6_STRMU	outside	158	161				
+tr|Q8DTZ6|Q8DTZ6_STRMU	TMhelix	162	181				
+tr|Q8DTZ6|Q8DTZ6_STRMU	inside	182	243				
+tr|Q8DTZ6|Q8DTZ6_STRMU	TMhelix	244	266				
+tr|Q8DTZ6|Q8DTZ6_STRMU	outside	267	278				
+tr|Q8DTZ6|Q8DTZ6_STRMU	TMhelix	279	300				
+tr|Q8DTZ6|Q8DTZ6_STRMU	inside	301	590				
+//
+# tr|Q8DTZ7|Q8DTZ7_STRMU Length: 581
+# tr|Q8DTZ7|Q8DTZ7_STRMU Number of predicted TMRs: 6
+tr|Q8DTZ7|Q8DTZ7_STRMU	inside	1	19				
+tr|Q8DTZ7|Q8DTZ7_STRMU	TMhelix	20	41				
+tr|Q8DTZ7|Q8DTZ7_STRMU	outside	42	62				
+tr|Q8DTZ7|Q8DTZ7_STRMU	TMhelix	63	77				
+tr|Q8DTZ7|Q8DTZ7_STRMU	inside	78	135				
+tr|Q8DTZ7|Q8DTZ7_STRMU	TMhelix	136	156				
+tr|Q8DTZ7|Q8DTZ7_STRMU	outside	157	160				
+tr|Q8DTZ7|Q8DTZ7_STRMU	TMhelix	161	178				
+tr|Q8DTZ7|Q8DTZ7_STRMU	inside	179	246				
+tr|Q8DTZ7|Q8DTZ7_STRMU	TMhelix	247	267				
+tr|Q8DTZ7|Q8DTZ7_STRMU	outside	268	278				
+tr|Q8DTZ7|Q8DTZ7_STRMU	TMhelix	279	299				
+tr|Q8DTZ7|Q8DTZ7_STRMU	inside	300	581				
+//
+# tr|Q8DTZ8|Q8DTZ8_STRMU Length: 248
+# tr|Q8DTZ8|Q8DTZ8_STRMU Number of predicted TMRs: 0
+tr|Q8DTZ8|Q8DTZ8_STRMU	inside	1	248				
+//
+# tr|Q8DTZ9|Q8DTZ9_STRMU Length: 340
+# tr|Q8DTZ9|Q8DTZ9_STRMU Number of predicted TMRs: 0
+tr|Q8DTZ9|Q8DTZ9_STRMU	inside	1	340				
+//
+# tr|Q8DU00|Q8DU00_STRMU Length: 54
+# tr|Q8DU00|Q8DU00_STRMU Number of predicted TMRs: 0
+tr|Q8DU00|Q8DU00_STRMU	inside	1	54				
+//
+# tr|Q8DU01|Q8DU01_STRMU Length: 418
+# tr|Q8DU01|Q8DU01_STRMU Number of predicted TMRs: 0
+tr|Q8DU01|Q8DU01_STRMU	inside	1	418				
+//
+# tr|Q8DU02|Q8DU02_STRMU Length: 1061
+# tr|Q8DU02|Q8DU02_STRMU Number of predicted TMRs: 0
+tr|Q8DU02|Q8DU02_STRMU	inside	1	1061				
+//
+# tr|Q8DU03|Q8DU03_STRMU Length: 115
+# tr|Q8DU03|Q8DU03_STRMU Number of predicted TMRs: 0
+tr|Q8DU03|Q8DU03_STRMU	inside	1	115				
+//
+# tr|Q8DU04|Q8DU04_STRMU Length: 151
+# tr|Q8DU04|Q8DU04_STRMU Number of predicted TMRs: 0
+tr|Q8DU04|Q8DU04_STRMU	inside	1	151				
+//
+# tr|Q8DU05|Q8DU05_STRMU Length: 98
+# tr|Q8DU05|Q8DU05_STRMU Number of predicted TMRs: 0
+tr|Q8DU05|Q8DU05_STRMU	inside	1	98				
+//
+# tr|Q8DU06|Q8DU06_STRMU Length: 303
+# tr|Q8DU06|Q8DU06_STRMU Number of predicted TMRs: 0
+tr|Q8DU06|Q8DU06_STRMU	signal	1	27				
+tr|Q8DU06|Q8DU06_STRMU	outside	28	303				
+//
+# tr|Q8DU07|Q8DU07_STRMU Length: 77
+# tr|Q8DU07|Q8DU07_STRMU Number of predicted TMRs: 0
+tr|Q8DU07|Q8DU07_STRMU	inside	1	77				
+//
+# tr|Q8DU08|Q8DU08_STRMU Length: 455
+# tr|Q8DU08|Q8DU08_STRMU Number of predicted TMRs: 0
+tr|Q8DU08|Q8DU08_STRMU	inside	1	455				
+//
+# tr|Q8DU09|Q8DU09_STRMU Length: 242
+# tr|Q8DU09|Q8DU09_STRMU Number of predicted TMRs: 6
+tr|Q8DU09|Q8DU09_STRMU	inside	1	13				
+tr|Q8DU09|Q8DU09_STRMU	TMhelix	14	27				
+tr|Q8DU09|Q8DU09_STRMU	outside	28	52				
+tr|Q8DU09|Q8DU09_STRMU	TMhelix	53	73				
+tr|Q8DU09|Q8DU09_STRMU	inside	74	100				
+tr|Q8DU09|Q8DU09_STRMU	TMhelix	101	121				
+tr|Q8DU09|Q8DU09_STRMU	outside	122	137				
+tr|Q8DU09|Q8DU09_STRMU	TMhelix	138	158				
+tr|Q8DU09|Q8DU09_STRMU	inside	159	164				
+tr|Q8DU09|Q8DU09_STRMU	TMhelix	165	185				
+tr|Q8DU09|Q8DU09_STRMU	outside	186	216				
+tr|Q8DU09|Q8DU09_STRMU	TMhelix	217	234				
+tr|Q8DU09|Q8DU09_STRMU	inside	235	242				
+//
+# tr|Q8DU10|Q8DU10_STRMU Length: 246
+# tr|Q8DU10|Q8DU10_STRMU Number of predicted TMRs: 6
+tr|Q8DU10|Q8DU10_STRMU	inside	1	15				
+tr|Q8DU10|Q8DU10_STRMU	TMhelix	16	33				
+tr|Q8DU10|Q8DU10_STRMU	outside	34	54				
+tr|Q8DU10|Q8DU10_STRMU	TMhelix	55	67				
+tr|Q8DU10|Q8DU10_STRMU	inside	68	98				
+tr|Q8DU10|Q8DU10_STRMU	TMhelix	99	120				
+tr|Q8DU10|Q8DU10_STRMU	outside	121	135				
+tr|Q8DU10|Q8DU10_STRMU	TMhelix	136	156				
+tr|Q8DU10|Q8DU10_STRMU	inside	157	161				
+tr|Q8DU10|Q8DU10_STRMU	TMhelix	162	182				
+tr|Q8DU10|Q8DU10_STRMU	outside	183	217				
+tr|Q8DU10|Q8DU10_STRMU	TMhelix	218	236				
+tr|Q8DU10|Q8DU10_STRMU	inside	237	246				
+//
+# tr|Q8DU11|Q8DU11_STRMU Length: 255
+# tr|Q8DU11|Q8DU11_STRMU Number of predicted TMRs: 0
+tr|Q8DU11|Q8DU11_STRMU	inside	1	255				
+//
+# tr|Q8DU12|Q8DU12_STRMU Length: 61
+# tr|Q8DU12|Q8DU12_STRMU Number of predicted TMRs: 0
+tr|Q8DU12|Q8DU12_STRMU	inside	1	61				
+//
+# tr|Q8DU13|Q8DU13_STRMU Length: 229
+# tr|Q8DU13|Q8DU13_STRMU Number of predicted TMRs: 0
+tr|Q8DU13|Q8DU13_STRMU	inside	1	229				
+//
+# tr|Q8DU18|Q8DU18_STRMU Length: 230
+# tr|Q8DU18|Q8DU18_STRMU Number of predicted TMRs: 0
+tr|Q8DU18|Q8DU18_STRMU	inside	1	230				
+//
+# tr|Q8DU27|Q8DU27_STRMU Length: 87
+# tr|Q8DU27|Q8DU27_STRMU Number of predicted TMRs: 0
+tr|Q8DU27|Q8DU27_STRMU	signal	1	27				
+tr|Q8DU27|Q8DU27_STRMU	outside	28	87				
+//
+# tr|Q8DU32|Q8DU32_STRMU Length: 198
+# tr|Q8DU32|Q8DU32_STRMU Number of predicted TMRs: 0
+tr|Q8DU32|Q8DU32_STRMU	inside	1	198				
+//
+# tr|Q8DU36|Q8DU36_STRMU Length: 349
+# tr|Q8DU36|Q8DU36_STRMU Number of predicted TMRs: 0
+tr|Q8DU36|Q8DU36_STRMU	signal	1	20				
+tr|Q8DU36|Q8DU36_STRMU	outside	21	349				
+//
+# tr|Q8DU37|Q8DU37_STRMU Length: 510
+# tr|Q8DU37|Q8DU37_STRMU Number of predicted TMRs: 0
+tr|Q8DU37|Q8DU37_STRMU	inside	1	510				
+//
+# tr|Q8DU38|Q8DU38_STRMU Length: 358
+# tr|Q8DU38|Q8DU38_STRMU Number of predicted TMRs: 10
+tr|Q8DU38|Q8DU38_STRMU	inside	1	7				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	8	28				
+tr|Q8DU38|Q8DU38_STRMU	outside	29	57				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	58	71				
+tr|Q8DU38|Q8DU38_STRMU	inside	72	77				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	78	98				
+tr|Q8DU38|Q8DU38_STRMU	outside	99	106				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	107	127				
+tr|Q8DU38|Q8DU38_STRMU	inside	128	137				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	138	152				
+tr|Q8DU38|Q8DU38_STRMU	outside	153	194				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	195	212				
+tr|Q8DU38|Q8DU38_STRMU	inside	213	241				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	242	262				
+tr|Q8DU38|Q8DU38_STRMU	outside	263	267				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	268	288				
+tr|Q8DU38|Q8DU38_STRMU	inside	289	292				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	293	307				
+tr|Q8DU38|Q8DU38_STRMU	outside	308	325				
+tr|Q8DU38|Q8DU38_STRMU	TMhelix	326	344				
+tr|Q8DU38|Q8DU38_STRMU	inside	345	358				
+//
+# tr|Q8DU39|Q8DU39_STRMU Length: 318
+# tr|Q8DU39|Q8DU39_STRMU Number of predicted TMRs: 9
+tr|Q8DU39|Q8DU39_STRMU	outside	1	13				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	14	30				
+tr|Q8DU39|Q8DU39_STRMU	inside	31	38				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	39	56				
+tr|Q8DU39|Q8DU39_STRMU	outside	57	68				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	69	85				
+tr|Q8DU39|Q8DU39_STRMU	inside	86	102				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	103	112				
+tr|Q8DU39|Q8DU39_STRMU	outside	113	155				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	156	171				
+tr|Q8DU39|Q8DU39_STRMU	inside	172	203				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	204	219				
+tr|Q8DU39|Q8DU39_STRMU	outside	220	232				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	233	242				
+tr|Q8DU39|Q8DU39_STRMU	inside	243	253				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	254	269				
+tr|Q8DU39|Q8DU39_STRMU	outside	270	282				
+tr|Q8DU39|Q8DU39_STRMU	TMhelix	283	300				
+tr|Q8DU39|Q8DU39_STRMU	inside	301	318				
+//
+# tr|Q8DU40|Q8DU40_STRMU Length: 378
+# tr|Q8DU40|Q8DU40_STRMU Number of predicted TMRs: 1
+tr|Q8DU40|Q8DU40_STRMU	inside	1	79				
+tr|Q8DU40|Q8DU40_STRMU	TMhelix	80	89				
+tr|Q8DU40|Q8DU40_STRMU	outside	90	378				
+//
+# tr|Q8DU42|Q8DU42_STRMU Length: 134
+# tr|Q8DU42|Q8DU42_STRMU Number of predicted TMRs: 0
+tr|Q8DU42|Q8DU42_STRMU	inside	1	134				
+//
+# tr|Q8DU43|Q8DU43_STRMU Length: 278
+# tr|Q8DU43|Q8DU43_STRMU Number of predicted TMRs: 0
+tr|Q8DU43|Q8DU43_STRMU	outside	1	278				
+//
+# tr|Q8DU44|Q8DU44_STRMU Length: 417
+# tr|Q8DU44|Q8DU44_STRMU Number of predicted TMRs: 11
+tr|Q8DU44|Q8DU44_STRMU	inside	1	19				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	20	35				
+tr|Q8DU44|Q8DU44_STRMU	outside	36	45				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	46	61				
+tr|Q8DU44|Q8DU44_STRMU	inside	62	87				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	88	114				
+tr|Q8DU44|Q8DU44_STRMU	outside	115	127				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	128	143				
+tr|Q8DU44|Q8DU44_STRMU	inside	144	150				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	151	171				
+tr|Q8DU44|Q8DU44_STRMU	outside	172	190				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	191	208				
+tr|Q8DU44|Q8DU44_STRMU	inside	209	235				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	236	255				
+tr|Q8DU44|Q8DU44_STRMU	outside	256	287				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	288	308				
+tr|Q8DU44|Q8DU44_STRMU	inside	309	330				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	331	351				
+tr|Q8DU44|Q8DU44_STRMU	outside	352	353				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	354	374				
+tr|Q8DU44|Q8DU44_STRMU	inside	375	391				
+tr|Q8DU44|Q8DU44_STRMU	TMhelix	392	406				
+tr|Q8DU44|Q8DU44_STRMU	outside	407	417				
+//
+# tr|Q8DU45|Q8DU45_STRMU Length: 270
+# tr|Q8DU45|Q8DU45_STRMU Number of predicted TMRs: 0
+tr|Q8DU45|Q8DU45_STRMU	inside	1	270				
+//
+# tr|Q8DU46|Q8DU46_STRMU Length: 191
+# tr|Q8DU46|Q8DU46_STRMU Number of predicted TMRs: 0
+tr|Q8DU46|Q8DU46_STRMU	inside	1	191				
+//
+# tr|Q8DU47|Q8DU47_STRMU Length: 198
+# tr|Q8DU47|Q8DU47_STRMU Number of predicted TMRs: 0
+tr|Q8DU47|Q8DU47_STRMU	inside	1	198				
+//
+# tr|Q8DU48|Q8DU48_STRMU Length: 204
+# tr|Q8DU48|Q8DU48_STRMU Number of predicted TMRs: 0
+tr|Q8DU48|Q8DU48_STRMU	inside	1	204				
+//
+# tr|Q8DU49|Q8DU49_STRMU Length: 132
+# tr|Q8DU49|Q8DU49_STRMU Number of predicted TMRs: 0
+tr|Q8DU49|Q8DU49_STRMU	inside	1	132				
+//
+# tr|Q8DU50|Q8DU50_STRMU Length: 478
+# tr|Q8DU50|Q8DU50_STRMU Number of predicted TMRs: 0
+tr|Q8DU50|Q8DU50_STRMU	inside	1	478				
+//
+# tr|Q8DU51|Q8DU51_STRMU Length: 374
+# tr|Q8DU51|Q8DU51_STRMU Number of predicted TMRs: 10
+tr|Q8DU51|Q8DU51_STRMU	inside	1	7				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	8	23				
+tr|Q8DU51|Q8DU51_STRMU	outside	24	35				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	36	56				
+tr|Q8DU51|Q8DU51_STRMU	inside	57	78				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	79	104				
+tr|Q8DU51|Q8DU51_STRMU	outside	105	172				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	173	191				
+tr|Q8DU51|Q8DU51_STRMU	inside	192	226				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	227	252				
+tr|Q8DU51|Q8DU51_STRMU	outside	253	255				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	256	274				
+tr|Q8DU51|Q8DU51_STRMU	inside	275	275				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	276	288				
+tr|Q8DU51|Q8DU51_STRMU	outside	289	293				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	294	312				
+tr|Q8DU51|Q8DU51_STRMU	inside	313	325				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	326	338				
+tr|Q8DU51|Q8DU51_STRMU	outside	339	340				
+tr|Q8DU51|Q8DU51_STRMU	TMhelix	341	358				
+tr|Q8DU51|Q8DU51_STRMU	inside	359	374				
+//
+# tr|Q8DU52|Q8DU52_STRMU Length: 320
+# tr|Q8DU52|Q8DU52_STRMU Number of predicted TMRs: 0
+tr|Q8DU52|Q8DU52_STRMU	inside	1	320				
+//
+# tr|Q8DU53|Q8DU53_STRMU Length: 160
+# tr|Q8DU53|Q8DU53_STRMU Number of predicted TMRs: 0
+tr|Q8DU53|Q8DU53_STRMU	inside	1	160				
+//
+# tr|Q8DU54|Q8DU54_STRMU Length: 240
+# tr|Q8DU54|Q8DU54_STRMU Number of predicted TMRs: 0
+tr|Q8DU54|Q8DU54_STRMU	inside	1	240				
+//
+# tr|Q8DU56|Q8DU56_STRMU Length: 218
+# tr|Q8DU56|Q8DU56_STRMU Number of predicted TMRs: 0
+tr|Q8DU56|Q8DU56_STRMU	inside	1	218				
+//
+# tr|Q8DU57|Q8DU57_STRMU Length: 502
+# tr|Q8DU57|Q8DU57_STRMU Number of predicted TMRs: 4
+tr|Q8DU57|Q8DU57_STRMU	inside	1	18				
+tr|Q8DU57|Q8DU57_STRMU	TMhelix	19	38				
+tr|Q8DU57|Q8DU57_STRMU	outside	39	328				
+tr|Q8DU57|Q8DU57_STRMU	TMhelix	329	346				
+tr|Q8DU57|Q8DU57_STRMU	inside	347	376				
+tr|Q8DU57|Q8DU57_STRMU	TMhelix	377	399				
+tr|Q8DU57|Q8DU57_STRMU	outside	400	467				
+tr|Q8DU57|Q8DU57_STRMU	TMhelix	468	488				
+tr|Q8DU57|Q8DU57_STRMU	inside	489	502				
